@@ -1,0 +1,41 @@
+body{
+	background-color: #7CFC00;
+	font-family: Lucida Sans;
+}
+#header{
+	background-color: #008000;
+	text-align: center;
+	padding: 10px;
+}
+#header h1{
+	color: #7FFF00;
+}
+#header blockquote{
+	background-color: #7CFC00;
+	border: 2px dotted black;
+	color: white;
+	font-weight: bold;
+}
+.menu ul{
+	display: flex;
+	justify-content: center;
+	list-style: none;
+	column-gap: 10px;
+}
+.gambar{
+	text-align: center;
+
+}
+.gambar img{
+	width: 25%
+}
+.koleksi{
+	text-align: center;
+}
+.koleksi img{
+	width: 20%
+}
+.promo{
+	color: white;
+	text-align: center;
+}
