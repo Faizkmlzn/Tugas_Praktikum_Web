@@ -1,0 +1,31 @@
+.kotak-atas{
+    border: 3px solid black;
+    width: 100%;
+    height: 100px;
+    background-color: green;
+}
+.container{
+    display: flex;
+}
+.kotak1{
+    border: 3px solid black;
+    width: 20%;
+    height: 100px;
+    background-color: yellow;
+    margin-right: 3%;
+    margin-top: 3%;
+}
+.kotak2{
+    border: 3px solid black;
+    width: 80%;
+    height: 100px;
+    background-color: orangered;
+    margin-top: 3%;
+}
+.kotak3{
+    border: 3px solid black;
+    width: 80%;
+    height: 100px;
+    background-color: aqua;
+    margin-top: 3%;
+}

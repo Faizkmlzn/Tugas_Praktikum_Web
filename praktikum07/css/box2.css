@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    background-color: lightgreen;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+.container img{
+    width: 200px;
+}
